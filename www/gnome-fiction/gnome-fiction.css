@@ -1,0 +1,46 @@
+body {
+  margin: auto;
+  max-width: 1000px;
+  color: #EEC;
+  background-color: #000;
+}
+
+
+a {
+  color: #EEC;
+}
+
+#top {
+  background: url('img/wow_header.jpg');
+  height: 162px;
+}
+
+#top h1 {
+  font-family: sans-serif;
+  font-size: 500%;
+  text-align: center;
+  letter-spacing: 0.1em;
+  color: #22FF22;
+}
+
+#content {
+  padding: 2em;
+  background: url('img/wood-weathered.jpg')
+}
+
+#sidebar {
+  font-family: sans-serif;
+}
+
+#sidebar h1 {
+  float: left;
+}
+#sidebar ul {
+  float: left;
+}
+
+#bottom {
+  border-top-style: inset;
+  font-style: italic;
+  font-size: 75%;
+}
