@@ -28,6 +28,10 @@ a {
   background: url('img/wood-weathered.jpg')
 }
 
+#main h2 {
+  background-color: #111;
+}
+
 #sidebar {
   font-family: sans-serif;
 }
