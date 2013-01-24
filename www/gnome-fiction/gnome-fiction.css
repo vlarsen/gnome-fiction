@@ -12,12 +12,16 @@ a {
 
 #top {
   background: url('img/wow_header.jpg');
-  height: 162px;
+//  height: 162px;
+}
+
+#top #crest {
 }
 
 #top h1 {
+  float: right;
   font-family: sans-serif;
-  font-size: 500%;
+  font-size: 400%;
   text-align: center;
   letter-spacing: 0.1em;
   color: #22FF22;
@@ -30,6 +34,21 @@ a {
 
 #main h2 {
   background-color: #111;
+  padding: 0.5em;
+}
+
+#content .leader {
+  font-style: italic;
+}
+
+#content .members {
+  font-style: italic;
+  font-size: 90%;
+}
+
+#streams h2 {
+  background-color: #111;
+  padding: 0.5em;
 }
 
 #sidebar {
