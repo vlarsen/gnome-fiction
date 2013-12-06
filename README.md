@@ -1,4 +1,4 @@
-gnome-fiction
+wakening
 =============
 
-Web pages for the WoW guild GNOME FICTION on EU-Nagrand
+Web pages for the WoW guild Wakening on EU-Silvermoon

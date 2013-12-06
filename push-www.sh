@@ -1,2 +1,2 @@
 #!/bin/sh
-rsync -avz www/gnome-fiction/ root@gnome-fiction.org:/var/www/gnome-fiction
+rsync -avz www/wakening/ root@wakening.nalle.org:/var/www/wakening
