@@ -1,4 +1,5 @@
 wakening
 =============
 
-Web pages for the WoW guild Wakening on EU-Silvermoon
+Web pages for the WoW guild Wakening on EU-Silvermoon.
+
